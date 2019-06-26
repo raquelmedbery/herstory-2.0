@@ -1,0 +1,18 @@
+#title {
+  font-size: 3em;
+  color: black;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight:
+}
+#heading {
+  font-size: 2em;
+  color: #f40084;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  padding-left: 20px;
+}
+#body {
+font-size: 1.25em;
+color: black;
+font-family: 'Alegreya Sans SC', sans-serif;
+padding-left: 30px;
+}
