@@ -1,0 +1,46 @@
+#title {
+  font-size: 3em;
+  color: black;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight:
+}
+#heading {
+  font-size: 2em;
+  color: #f40084;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  padding-left: 20px;
+}
+p {
+font-size: 1.25em;
+color: black;
+font-family: 'Alegreya Sans SC', sans-serif;
+padding-left: 30px;
+}
+.coverimage {
+  position: relative;
+      float: left;
+      width:  100px;
+      height: 100px;
+      background-position: 50% 50%;
+      background-repeat:   no-repeat;
+      background-size:     cover;
+}
+.crop {
+ height: 300px;
+ width: 400px;
+ overflow: hidden;
+}
+.crop img {
+ height: auto;
+ width: 400px;
+}
+.logo {
+  width: 100%;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
