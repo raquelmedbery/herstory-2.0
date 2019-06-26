@@ -5,14 +5,17 @@ body {
 .paragraph{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
+  1.25em;
 }
 h1{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 3em;
 }
 h2{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
+  2em;
 }
 
 #caption{
