@@ -1,0 +1,42 @@
+.pink{
+  background-color: pink;
+  color:white;
+  margin:10px;
+}
+body{
+  <font-family: 'Alegreya Sans SC', sans-serif;
+}
+.ppbutton{
+  background: url("imgs/btn_imgs.jpg") no-repeat;
+  cursor:pointer;
+  border:none;
+  width:110px;
+  height:70px;
+  background-size:100%;
+  margin-left: 100px;
+}
+.mybuuton:active
+{
+  background:url("./img/sbtn_imgs.jpg");
+}
+#button-section{
+  background-color:white;
+  margin-right: 1707px;
+  margin-bottom: 7px;
+  margin-left: 15px;
+  margin-top:2px;
+
+  /*display: flex; justify-content: center;*/
+}
+h2{
+  text-align:center;
+}
+
+#email{
+  font-size:50px;
+}
+.halfrow{
+  margin:40px;
+  padding:40px;
+  text-align:center;
+}
