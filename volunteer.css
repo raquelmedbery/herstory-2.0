@@ -1,0 +1,59 @@
+body {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color: #e59ab9;
+}
+.herstory-container {
+  background-color: white;
+  padding: 20px;
+}
+
+#title {
+  font-size: 3em;
+  color: black;
+}
+#heading {
+  font-size: 2em;
+  color: #f40084;
+  padding-left: 20px;
+}
+p {
+font-size: 1.25em;
+color: black;
+padding-left: 30px;
+}
+.coverimage {
+  position: relative;
+      float: left;
+      width:  100px;
+      height: 100px;
+      background-position: 50% 50%;
+      background-repeat:   no-repeat;
+      background-size:     cover;
+}
+.crop {
+ height: 300px;
+ width: 400px;
+ overflow: hidden;
+}
+.crop img {
+ height: auto;
+ width: 400px;
+}
+.logo {
+  width: 100%;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  color: white;
+}
+.herstory-nav {
+  background-color: black;
+}
+nav img {
+  max-width: 75px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
