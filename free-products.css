@@ -38,3 +38,32 @@ font-family: 'Alegreya Sans', sans-serif;
   height: 90vh;
   object-fit: cover;
 }
+
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+.herstory-container {
+  background-color: white;
+  padding: 20px;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  color: white;
+}
+.herstory-nav {
+  background-color: black;
+}
+nav img {
+  max-width: 75px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
