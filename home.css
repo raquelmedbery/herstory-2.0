@@ -1,6 +1,6 @@
 body {
   font-family: 'Alegreya Sans SC', sans-serif;
-  background-color: #e59ab9;
+  background-color: #E59AB9;
 }
 .herstory-container {
   background-color: white;
@@ -20,4 +20,31 @@ nav img {
   max-width: 75px;
   margin-top: -8px;
   margin-bottom: -8px;
+}
+span{
+  color: #D63775;
+  font-weight: bold;
+}
+/*centers icon bar/sets background color/changes padding above icon bar*/
+.col-sm-4{
+  text-align: center;
+  background-color: white;
+  padding-top: 20px;
+}
+
+#about{
+  font-size: 5em;
+  color: #D63775;
+  text-align: center;
+}
+#donate{
+  font-size:5em;
+  color: #0C0C0C;
+  text-align: center;
+}
+#volunteer{
+  font-size: 5em;
+  /*color: #FBFBFB;*/
+  color: #E59AB9;
+  text-align: center;
 }
