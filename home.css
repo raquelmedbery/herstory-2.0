@@ -7,7 +7,7 @@ body {
 .herstory-container {
   background-color: white;
   padding: 20px;
-}   
+}
 /*footer*/
 .page-footer {
   padding: 50px;
@@ -82,4 +82,9 @@ span{
 }
 #volunteer:hover{
   color: #efc2d5;
+}
+A:visited { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
+A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+#nav-link {
+    color: #969696;
 }

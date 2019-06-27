@@ -24,7 +24,7 @@ h2{
   font-size: 16px;
   text-align:center;
 }
-   
+
 #bridget_headshot{
   width:363px;
   height: auto;
@@ -58,4 +58,9 @@ nav img {
   max-width: 75px;
   margin-top: -8px;
   margin-bottom: -8px;
+}
+A:visited { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
+A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+#nav-link {
+    color: #969696;
 }
