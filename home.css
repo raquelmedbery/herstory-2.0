@@ -1,7 +1,7 @@
 /*universal font*/
 body {
   font-family: 'Alegreya Sans SC', sans-serif;
-  background-color: #E59AB9;
+  background-color: #e59ab9;
 }
 /*margins*/
 .herstory-container {
@@ -26,6 +26,26 @@ nav img {
   margin-top: -8px;
   margin-bottom: -8px;
 }
+/*pink sides*/
+.halfrow {
+  background-color: #9b9c9c;
+  padding: 60px;
+  text-align: center;
+  font-size: 3em;
+  color: black;
+}
+/*button text*/
+a {
+  color: #d63775;
+}
+/*body text*/
+#body {
+font-size: .5em;
+color: #d63775;
+padding-left: 30px;
+}
+A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+
 span{
   color: #D63775;
   font-weight: bold;
