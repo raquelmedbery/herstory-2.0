@@ -1,11 +1,14 @@
+/*universal font*/
 body {
   font-family: 'Alegreya Sans SC', sans-serif;
   background-color: #e59ab9;
 }
+/*margins*/
 .herstory-container {
   background-color: white;
   padding: 20px;
 }
+/*footer*/
 .page-footer {
   padding: 50px;
   background: black;
@@ -13,11 +16,31 @@ body {
   margin-bottom: -15px;
   color: white;
 }
+/*nav bar color*/
 .herstory-nav {
   background-color: black;
 }
+/*nav bar image*/
 nav img {
   max-width: 75px;
   margin-top: -8px;
   margin-bottom: -8px;
+}
+/*pink sides*/
+.halfrow {
+  background-color: #9b9c9c;
+  padding: 60px;
+  text-align: center;
+  font-size: 3em;
+  color: black;
+}
+/*button text*/
+a {
+  color: #d63775;
+}
+/*body text*/
+#body {
+font-size: .5em;
+color: #d63775;
+padding-left: 30px;
 }
