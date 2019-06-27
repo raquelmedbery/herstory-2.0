@@ -38,8 +38,9 @@ font-family: 'Alegreya Sans', sans-serif;
   width: 80%;
   height: 90vh;
   object-fit: cover;
-  margin-left:100px;
+  margin-left:130px;
   margin-right:100px;
+  text-align: center;
 }
 
 .page-footer {
