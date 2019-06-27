@@ -1,0 +1,77 @@
+body{
+font-family: 'Alegreya Sans', sans-serif;
+}
+
+#freeproducts{
+  text-align: center;
+  color:#0c0c0c;
+  font-size: 3em;
+
+}
+
+.subtitle{
+  text-align: center;
+  color:#D63775;
+  font-size: 2em;
+}
+
+#text-1{
+  text-align: center;
+  color:#0c0c0c;
+  font-size: 1.25em;
+  margin-left: 100px;
+}
+
+
+#list{
+  text-align: center;
+  color:#0c0c0c;
+  font-size: 1.25em;
+}
+
+#list li{
+  list-style:none;
+}
+
+
+#coverimage {
+  width: 80%;
+  height: 90vh;
+  object-fit: cover;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+.herstory-container {
+  background-color: white;
+  padding: 20px;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  color: white;
+}
+.herstory-nav {
+  background-color: black;
+}
+nav img {
+  max-width: 75px;
+  margin-top: -8px;
+  margin-bottom: -8px;
+}
+
+body {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color: #e59ab9;
+}
