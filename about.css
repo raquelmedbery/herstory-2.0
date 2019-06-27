@@ -1,3 +1,4 @@
+/*sets font for all text*/
 body {
   font-family: 'Alegreya Sans SC', sans-serif;
   background-color: #e59ab9;
@@ -33,9 +34,12 @@ h2{
   margin-right: auto;
 }
 
+/*sets the dual color text, all text in the <span> is set to be pink*/
 span{
   color: #D63775;
 }
+
+/*css for the website background*/
 .herstory-container {
   background-color: white;
   padding: 20px;

@@ -1,7 +1,7 @@
 /*universal font*/
 body {
   font-family: 'Alegreya Sans SC', sans-serif;
-  background-color: #e59ab9;
+  background-color: #E59AB9;
 }
 /*margins*/
 .herstory-container {
@@ -26,22 +26,30 @@ nav img {
   margin-top: -8px;
   margin-bottom: -8px;
 }
-/*pink sides*/
-.halfrow {
-  background-color: #9b9c9c;
-  padding: 60px;
+span{
+  color: #D63775;
+  font-weight: bold;
+}
+/*centers icon bar/sets background color/changes padding above icon bar*/
+.col-sm-4{
   text-align: center;
-  font-size: 3em;
-  color: black;
+  background-color: white;
+  padding-top: 20px;
 }
-/*button text*/
-a {
-  color: #d63775;
+
+#about{
+  font-size: 5em;
+  color: #D63775;
+  text-align: center;
 }
-/*body text*/
-#body {
-font-size: .5em;
-color: #d63775;
-padding-left: 30px;
+#donate{
+  font-size:5em;
+  color: #0C0C0C;
+  text-align: center;
 }
-A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+#volunteer{
+  font-size: 5em;
+  /*color: #FBFBFB;*/
+  color: #E59AB9;
+  text-align: center;
+}
