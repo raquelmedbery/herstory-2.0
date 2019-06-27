@@ -73,4 +73,14 @@ span{
   color: #E59AB9;
   text-align: center;
 }
- 
+
+#about:hover{
+  color:#dc5689;
+}
+#donate:hover{
+  color: #333333;
+}
+#volunteer:hover{
+  color: #efc2d5;
+}
+
