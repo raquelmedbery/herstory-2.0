@@ -7,7 +7,7 @@ body {
 .herstory-container {
   background-color: white;
   padding: 20px;
-}
+}   
 /*footer*/
 .page-footer {
   padding: 50px;
@@ -72,4 +72,14 @@ span{
   /*color: #FBFBFB;*/
   color: #E59AB9;
   text-align: center;
+}
+
+#about:hover{
+  color:#e580a7;
+}
+#donate:hover{
+  color: #4d4d4d;
+}
+#volunteer:hover{
+  color: #efc2d5;
 }
