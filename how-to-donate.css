@@ -1,7 +1,9 @@
 .pink{
-  background-color: pink;
-  color:white;
-  margin:10px;
+  background-color: white;
+  color:black;
+  margin:50px;
+  margin-left:60px;
+  margin-right:60px
 }
 body{
   <font-family: 'Alegreya Sans SC', sans-serif;
@@ -48,4 +50,27 @@ h2{
   text-align: center;
   width:270px;
   height:540px;
+}
+body {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background-color: #e59ab9;
+}
+.herstory-container {
+  background-color: white;
+  padding: 20px;
+}
+.page-footer {
+  padding: 50px;
+  background: black;
+  margin-top: 20px;
+  margin-bottom: -15px;
+  color: white;
+}
+.herstory-nav {
+  background-color: black;
+}
+nav img {
+  max-width: 75px;
+  margin-top: -8px;
+  margin-bottom: -8px;
 }
