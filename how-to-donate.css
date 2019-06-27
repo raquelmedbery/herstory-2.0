@@ -90,3 +90,8 @@ color: black;
 .pink-color {
   color:#D63775;
 }
+A:visited { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
+A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+#nav-link {
+    color: #969696;
+}
