@@ -27,9 +27,7 @@ body{
   height:70px;
 
   background-size:100%;
-
-  margin-left: 100px;
-
+  margin-left: 175px;
 }
 
 .mybuuton:active
@@ -49,8 +47,7 @@ body{
   margin-bottom: 7px;
 
   margin-left: 15px;
-
-  margin-top:2px;
+  margin-top:75px;
 
 
 
@@ -65,13 +62,6 @@ h2{
 }
 
 
-
-#email{
-
-  font-size:50px;
-
-}
-
 .halfrow{
 
   margin:40px;
@@ -80,4 +70,15 @@ h2{
 
   text-align:center;
 
+}
+.ppbutton {
+  display: block;
+  width: 24%;
+  border: none;
+  padding: 4px 8px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  width:270px;
+  height:540px;
 }
