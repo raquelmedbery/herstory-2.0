@@ -6,7 +6,7 @@ body {
 .paragraph{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
-  font-size: 1.25;
+  font-size: 1.25em;
 }
 h1{
   text-align:left;
