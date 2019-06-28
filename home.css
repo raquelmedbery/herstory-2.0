@@ -88,3 +88,6 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
+h1{
+  font-weight: bold;
+}
