@@ -13,12 +13,14 @@ body {
   font-size: 3em;
   color: black;
   font-weight: bold;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 /*subtitles*/
 #heading {
   font-size: 2em;
   color: #f40084;
   padding-left: 20px;
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 /*body text*/
 p {
@@ -61,6 +63,10 @@ padding-left: 30px;
 /*for nav bar*/
 .herstory-nav {
   background-color: black;
+}
+
+.nav-item {
+    font-family: 'Alegreya Sans SC', sans-serif;
 }
 /*for nav bar image*/
 nav img {
