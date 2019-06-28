@@ -5,8 +5,8 @@ body {
 }
 .paragraph{
   text-align:left;
-  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 1.25em;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 h1{
   text-align:left;
@@ -17,6 +17,7 @@ h2{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
   2em;
+  white-space: nowrap;
 }
 
 #caption{
