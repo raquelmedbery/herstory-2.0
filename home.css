@@ -88,8 +88,18 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
+<<<<<<< HEAD
+
+carousel-item h2 {
+
+}
+
+carousel-item p {
+  
+=======
 h1{
   font-weight: bold;
+>>>>>>> c01ea27e4ee9ff317cc789a8a38a4a6d437018f4
 }
 
 #mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
