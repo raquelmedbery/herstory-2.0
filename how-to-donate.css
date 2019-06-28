@@ -9,16 +9,7 @@ body{
   <font-family: 'Alegreya Sans SC', sans-serif;
 }
 
-.mybuuton:active
-{
-  background:url("./img/sbtn_imgs.jpg");
-}
-#button-section{
-  background-color:white;
-  margin-right: 1707px;
-  margin-bottom: 7px;
-  margin-left: 15px;
-  margin-top:75px;
+
 
   /*display: flex; justify-content: center;*/
 }
