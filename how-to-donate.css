@@ -80,3 +80,6 @@ color: black;
 .pink-color {
   color:#D63775;
 }
+a:link { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal; }
+a:visited { COLOR: #f40084;}
+a:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none; }

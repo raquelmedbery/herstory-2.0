@@ -78,13 +78,13 @@ font-size: 1.25em;
 color: #000000;
 padding-left: 30px;
 }
-a:link { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
-a:visted { COLOR: BLACK;}
-a:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
+a:link { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal; }
+a:visited { COLOR: #f40084;}
+a:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none; }
 #nav-link {
     color: #969696;
 }
-.egg {
+#egg {
   color: white;
-  margin: 20px;
 }
+#egg:hover { COLOR: #9cf7ff; TEXT-DECORATION: none; font-weight: none }
