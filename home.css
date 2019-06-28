@@ -91,3 +91,7 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 h1{
   font-weight: bold;
 }
+.carousel {
+  max-height: 600px;
+  overflow: hidden;
+}
