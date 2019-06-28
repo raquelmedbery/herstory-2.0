@@ -5,18 +5,18 @@ body {
 }
 .paragraph{
   text-align:left;
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1.25em;
 }
 h1{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 3em;
+  font-weight: bold;
 }
 h2{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
-  2em;
 }
 
 #caption{
