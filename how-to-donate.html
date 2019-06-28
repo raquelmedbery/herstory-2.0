@@ -42,13 +42,13 @@
           <li class="nav-item">
             <a class="nav-link" href="about.html">Our Story</a>
           </li>
-          <li class="nav-item active">
+          <li class="nav-item active" >
             <a class="nav-link" href="how-to-donate.html">Donate</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="free-products.html">Free Period Products</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item ">
             <a class="nav-link" href="volunteer.html">Get Involved</a>
           </li>
         </ul>
@@ -76,15 +76,22 @@
     <div class="row white" >
       <div class="col-sm-6" >
         <div class="halfrow">
-          <button onclick="window.location.href='https://www.paypal.com/signin?returnUri=https%3A%2F%2Fwww.paypal.com%2Fmyaccount%2Ftransfer&state=%2Fhomepage' ; " class=ppbutton>
-          </button>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+        <input type="hidden" name="cmd" value="_donations" />
+        <input type="hidden" name="business" value="CT33WR6TTB4AG" />
+        <input type="hidden" name="currency_code" value="USD" />
+        <input type="image" src="imgs/btn_imgs.jpg" class="ppbutton" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+        <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+
         </div>
       </div>
       <div class="col-sm-6" id="email">
         <div class="halfrow">
-          <a href="mailto:herstorymn@gmail.com">
-            <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=herstorymn@gmail.com"><img src="imgs/email_imgs.png">
-            </a>
+          <a target="_blank" href="mailto:herstorymn@gmail.com?subject=product%20donation"><img src="imgs/email_imgs.png">
+          </a>
+
+            <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=herstorymn@gmail.com"></a>
           </div>
         </div>
 
@@ -97,6 +104,10 @@
         <!-- Copyright -->
 
         <div class="col-sm-12 footer-copyright text-center">© 2019 rewriteherstory.org
+
+          <div class="col-sm-12 footer-copyright text-center"> Facebook-rewriteherstory
+            <div class"col-sm-12 footer-copyright text-center"> Instagram-@rewrite.herstory
+
     <div class="col-sm-12 footer-copyright text-center"> <a href="https://www.facebook.com/rewrite.herstory/">Facebook-rewriteherstory</a>
                     <div class"col-sm-12 footer-copyright text-center"> <a href="https://www.instagram.com/rewrite.herstory/">Instagram-@rewrite.herstory</a>
                       <div id="mc_embed_signup_scroll">
@@ -106,6 +117,7 @@
                       <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                       <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_cdadfe01e219f8a377491f8f6_0cf51ed0f8" tabindex="-1" value=""></div>
                       <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
 
               <!-- Copyright -->
             </div>
