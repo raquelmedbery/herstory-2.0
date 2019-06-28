@@ -8,15 +8,7 @@
 body{
   <font-family: 'Alegreya Sans SC', sans-serif;
 }
-.ppbutton{
-  background: url("imgs/btn_imgs.jpg") no-repeat;
-  cursor:pointer;
-  border:none;
-  width:110px;
-  height:70px;
-  background-size:100%;
-  margin-left: 175px;
-}
+
 .mybuuton:active
 {
   background:url("./img/sbtn_imgs.jpg");
@@ -41,18 +33,14 @@ h2{
   text-align:center;
 }
 .ppbutton {
-  display: block;
-  width: 24%;
-  border: none;
+  cursor:pointer;
+  width: 100%;
   padding: 4px 8px;
-  font-size: 16px;
   cursor: pointer;
-  text-align: center;
-  width:270px;
-  height:540px;
+  text-align: center
 }
 body {
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   background-color: #e59ab9;
 }
 .herstory-container {
@@ -74,14 +62,16 @@ nav img {
   margin-top: -8px;
   margin-bottom: -8px;
 }
-#title {
+.title {
   font-size: 3em;
   color: black;
+  font-weight: bold;
 }
 #heading {
   font-size: 2em;
   color: #f40084;
   padding-left: 20px;
+  margin-top:-30px;
 }
 p {
 font-size: 1.25em;
@@ -90,9 +80,11 @@ color: black;
 .pink-color {
   color:#D63775;
 }
+
 A:visited { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
 A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
 #mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
+
