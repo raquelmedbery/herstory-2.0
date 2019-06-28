@@ -6,6 +6,7 @@ font-family: 'Alegreya Sans', sans-serif;
   text-align: center;
   color:#0c0c0c;
   font-size: 3em;
+  font-weight: bold;
 
 }
 
@@ -27,6 +28,7 @@ font-family: 'Alegreya Sans', sans-serif;
   text-align: center;
   color:#0c0c0c;
   font-size: 1.25em;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 
 #list li{
@@ -83,3 +85,7 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
+#text-1{
+font-family: 'Alegreya Sans', sans-serif;
+}
+#mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
