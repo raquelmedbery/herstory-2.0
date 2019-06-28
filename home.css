@@ -101,3 +101,7 @@ h1{
   font-weight: bold;
 >>>>>>> c01ea27e4ee9ff317cc789a8a38a4a6d437018f4
 }
+
+#mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
