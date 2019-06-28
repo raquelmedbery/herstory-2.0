@@ -1,6 +1,6 @@
 /*css for same font*/
 body {
-  font-family: 'Alegreya Sans SC', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   background-color: #e59ab9;
 }
 /*all background color*/
@@ -12,6 +12,7 @@ body {
 #title {
   font-size: 3em;
   color: black;
+  font-weight: bold;
 }
 /*subtitles*/
 #heading {
@@ -47,6 +48,7 @@ padding-left: 30px;
 
 .logo {
   width: 100%;
+  margin: 20px;
 }
 /*for shaping footer*/
 .page-footer {
@@ -75,4 +77,4 @@ A:visited { COLOR: #f40084; TEXT-DECORATION: none; font-weight: normal }
 A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
-}   
+}
