@@ -17,6 +17,7 @@ h1{
 h2{
   text-align:left;
   font-family: 'Alegreya Sans SC', sans-serif;
+  white-space: nowrap;
 }
 
 #caption{
@@ -64,3 +65,4 @@ A:hover { COLOR: #e59ab9; TEXT-DECORATION: none; font-weight: none }
 #nav-link {
     color: #969696;
 }
+#mc_embed_signup{background:black; clear:left; font:14px Helvetica,Arial,sans-serif; }
